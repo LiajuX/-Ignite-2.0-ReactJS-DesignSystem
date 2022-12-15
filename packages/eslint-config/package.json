@@ -1,0 +1,6 @@
+{
+  "name": "@liaux-ignite-ui/eslint-config",
+  "main": "index.js",
+  "private": true,
+  "license": "MIT"
+}
