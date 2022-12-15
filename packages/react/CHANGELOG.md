@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @liaux-ignite-ui/react
 
 ## 2.0.0
 
