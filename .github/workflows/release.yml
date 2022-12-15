@@ -32,5 +32,5 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-          TURBO_TOKEN: uog7x7t7C5e9yYobNBkQsANV
+          TURBO_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           TURBO_TEAM: julialbrito
