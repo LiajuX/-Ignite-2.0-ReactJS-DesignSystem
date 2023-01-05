@@ -1,4 +1,4 @@
-import { colors } from '@liaux-ignite-ui/tokens'
+import { colors } from '@liajux-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

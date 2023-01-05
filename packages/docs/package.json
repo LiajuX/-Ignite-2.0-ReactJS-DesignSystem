@@ -1,5 +1,5 @@
 {
-  "name": "@liaux-ignite-ui/docs",
+  "name": "@liajux-ignite-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -28,10 +28,10 @@
     "vite": "^4.0.0"
   },
   "dependencies": {
-    "@liaux-ignite-ui/eslint-config": "*",
-    "@liaux-ignite-ui/react": "*",
-    "@liaux-ignite-ui/tokens": "*",
-    "@liaux-ignite-ui/ts-config": "*",
+    "@liajux-ignite-ui/eslint-config": "*",
+    "@liajux-ignite-ui/react": "*",
+    "@liajux-ignite-ui/tokens": "*",
+    "@liajux-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^6.5.14",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

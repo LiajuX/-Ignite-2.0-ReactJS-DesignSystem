@@ -1,5 +1,5 @@
 {
-  "name": "@liaux-ignite-ui/tokens",
+  "name": "@liajux-ignite-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@liaux-ignite-ui/ts-config": "*",
-    "@liaux-ignite-ui/eslint-config": "*",
+    "@liajux-ignite-ui/ts-config": "*",
+    "@liajux-ignite-ui/eslint-config": "*",
     "tsup": "^6.5.0",
     "typescript": "^4.9.4"
   }

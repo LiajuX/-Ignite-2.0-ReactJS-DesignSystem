@@ -1,4 +1,6 @@
 export * from './components/Avatar'
+export * from './components/Toast'
+export * from './components/Tooltip'
 
 export * from './components/Box'
 

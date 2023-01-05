@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@liaux-ignite-ui/tokens'
+} from '@liajux-ignite-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

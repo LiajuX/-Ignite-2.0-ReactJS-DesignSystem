@@ -1,6 +1,6 @@
 {
-  "name": "@liaux-ignite-ui/react",
-  "version": "2.0.0",
+  "name": "@liajux-ignite-ui/react",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@liaux-ignite-ui/eslint-config": "*",
-    "@liaux-ignite-ui/tokens": "*",
-    "@liaux-ignite-ui/ts-config": "*",
+    "@liajux-ignite-ui/eslint-config": "*",
+    "@liajux-ignite-ui/tokens": "*",
+    "@liajux-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.26",
     "@types/react-dom": "^18.0.9",
     "tsup": "^6.5.0",
@@ -25,7 +25,10 @@
   "dependencies": {
     "@radix-ui/react-avatar": "^1.0.0",
     "@radix-ui/react-checkbox": "^1.0.1",
+    "@radix-ui/react-toast": "^1.1.2",
+    "@radix-ui/react-tooltip": "^1.0.2",
     "@stitches/react": "^1.2.8",
+    "date-fns": "^2.29.3",
     "phosphor-react": "^1.4.1",
     "react": "^18.2.0"
   }
