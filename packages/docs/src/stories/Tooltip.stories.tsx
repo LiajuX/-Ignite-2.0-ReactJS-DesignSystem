@@ -5,7 +5,7 @@ export default {
   title: 'Data Display/Tooltip',
   component: Tooltip,
   args: {
-    content: '21 de Outubro - Indisponível',
+    content: 'Tooltip content - example',
     trigger: (
       <Box>
         <Text>Hover to show tooltip default component</Text>
